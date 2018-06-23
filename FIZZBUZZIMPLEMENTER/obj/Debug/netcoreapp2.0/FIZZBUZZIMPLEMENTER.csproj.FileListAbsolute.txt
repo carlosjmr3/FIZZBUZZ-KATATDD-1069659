@@ -1,0 +1,9 @@
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\bin\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.deps.json
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\bin\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\bin\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.pdb
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\obj\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\obj\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\obj\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\obj\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\obj\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\FIZZBUZZIMPLEMENTER\obj\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.pdb

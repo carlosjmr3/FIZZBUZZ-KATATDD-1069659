@@ -1,0 +1,17 @@
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\fizzbuzzTDD-169659.deps.json
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\fizzbuzzTDD-169659.runtimeconfig.json
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\fizzbuzzTDD-169659.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\fizzbuzzTDD-169659.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\fizzbuzzTDD-169659.pdb
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\bin\Debug\netcoreapp2.0\FIZZBUZZIMPLEMENTER.pdb
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.csproj.CopyComplete
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD-169659\obj\Debug\netcoreapp2.0\fizzbuzzTDD-169659.pdb

@@ -1,0 +1,9 @@
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\bin\Debug\netcoreapp2.0\FizzBuzzTester.deps.json
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\bin\Debug\netcoreapp2.0\FizzBuzzTester.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\bin\Debug\netcoreapp2.0\FizzBuzzTester.pdb
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\obj\Debug\netcoreapp2.0\FizzBuzzTester.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\obj\Debug\netcoreapp2.0\FizzBuzzTester.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\obj\Debug\netcoreapp2.0\FizzBuzzTester.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\obj\Debug\netcoreapp2.0\FizzBuzzTester.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\obj\Debug\netcoreapp2.0\FizzBuzzTester.dll
+C:\Users\Carlos\source\repos\fizzbuzzTDD-169659\fizzbuzzTDD_V2\FIZZBUZZIMPLEMENTER1\obj\Debug\netcoreapp2.0\FizzBuzzTester.pdb
